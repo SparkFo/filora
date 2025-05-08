@@ -1,0 +1,104 @@
+{
+    "comments": [
+        {
+            "id": 101,
+            "name": "John Smith",
+            "date": "2025-04-01T10:30:00",
+            "text": "I couldn't believe it when I received the call that I won! Thank you so much, the device is amazing and works perfectly.",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/21.jpg",
+            "verified": true,
+            "location": "New York, USA"
+        },
+        {
+            "id": 102,
+            "name": "Sarah Johnson",
+            "date": "2025-04-02T14:15:00",
+            "text": "I was skeptical at first, but the contest was 100% real! I received the device within a week of being announced as the winner.",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/22.jpg",
+            "verified": true,
+            "location": "London, UK"
+        },
+        {
+            "id": 103,
+            "name": "Michael Brown",
+            "date": "2025-04-03T09:45:00",
+            "text": "Great experience! The website is easy to use and registration was simple. I'll share with my friends to join too.",
+            "rating": 4,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/23.jpg",
+            "verified": false,
+            "location": "Sydney, Australia"
+        },
+        {
+            "id": 104,
+            "name": "Emily Davis",
+            "date": "2025-04-04T16:20:00",
+            "text": "Thank you so much! I didn't expect to win, but I was lucky. The device works perfectly and I'm very happy with it.",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/24.jpg",
+            "verified": true,
+            "location": "Toronto, Canada"
+        },
+        {
+            "id": 105,
+            "name": "David Wilson",
+            "date": "2025-04-05T11:10:00",
+            "text": "I won the contest last month and received the device quickly. Thank you for this amazing opportunity!",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/25.jpg",
+            "verified": true,
+            "location": "Berlin, Germany"
+        },
+        {
+            "id": 106,
+            "name": "Olivia Taylor",
+            "date": "2025-04-06T13:25:00",
+            "text": "I recommend everyone to participate in this contest. I won and my friends did too. Thank you!",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/26.jpg",
+            "verified": false,
+            "location": "Paris, France"
+        },
+        {
+            "id": 107,
+            "name": "James Anderson",
+            "date": "2025-04-07T15:40:00",
+            "text": "Best gift I've ever received! Thank you for this amazing opportunity. The device is incredible and I'm very happy with it.",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/27.jpg",
+            "verified": true,
+            "location": "Chicago, USA"
+        },
+        {
+            "id": 108,
+            "name": "Sophia Martinez",
+            "date": "2025-04-08T12:15:00",
+            "text": "I was looking for a new device and suddenly I won this one! I can't believe my luck. The device is great and the camera is amazing.",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/28.jpg",
+            "verified": true,
+            "location": "Madrid, Spain"
+        },
+        {
+            "id": 109,
+            "name": "William Thompson",
+            "date": "2025-04-09T09:30:00",
+            "text": "Excellent experience from start to finish. Registration was easy and communication was quick. I recommend everyone to participate.",
+            "rating": 4,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/29.jpg",
+            "verified": true,
+            "location": "Amsterdam, Netherlands"
+        },
+        {
+            "id": 110,
+            "name": "Emma White",
+            "date": "2025-04-10T14:50:00",
+            "text": "I didn't expect to win, but luck was on my side! The device is amazing and very fast. Thank you so much!",
+            "rating": 5,
+            "avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/30.jpg",
+            "verified": true,
+            "location": "Dublin, Ireland"
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "general": {
+        "siteName": "اربح ايفون 16 مجاناً",
+        "siteDescription": "احصل على ايفون 16 الجديد مجاناً! فرصة ذهبية محدودة للفوز بأحدث هاتف ايفون 16. سجل الآن قبل انتهاء العرض واربح جهاز ايفون 16 الجديد كلياً. عرض حصري لفترة محدودة.",
+        "language": "ar",
+        "direction": "rtl",
+        "offerLink": "https:\/\/example.com\/iphone16-offer",
+        "countdownDays": 3,
+        "defaultLanguage": "en"
+    },
+    "meta": {
+        "title": "اربح ايفون 16 مجاناً | عرض محدود لفترة محدودة",
+        "description": "احصل على ايفون 16 الجديد مجاناً! فرصة ذهبية محدودة للفوز بأحدث هاتف ايفون 16. سجل الآن قبل انتهاء العرض واربح جهاز ايفون 16 الجديد كلياً. عرض حصري لفترة محدودة.",
+        "keywords": "ايفون 16, اربح ايفون, هدايا مجانية, ايفون مجاني, مسابقة ايفون, آيفون 16 برو, آبل, جوائز, سحب الكتروني, عرض محدود, هاتف مجاني, ربح ايفون, فوز بجوائز, آيفون جديد, عروض حصرية",
+        "author": "iPhone Giveaway",
+        "robots": "index, follow",
+        "language": "Arabic",
+        "revisitAfter": "1 days",
+        "geoRegion": "ME",
+        "themeColor": "#0071e3",
+        "appleMobileWebAppCapable": "yes",
+        "appleMobileWebAppStatusBarStyle": "black-translucent"
+    },
+    "openGraph": {
+        "type": "website",
+        "url": "https:\/\/example.com\/iphone16-giveaway",
+        "title": "اربح ايفون 16 مجاناً | عرض محدود لفترة محدودة",
+        "description": "احصل على ايفون 16 الجديد مجاناً! فرصة ذهبية محدودة للفوز بأحدث هاتف ايفون. سجل الآن قبل انتهاء العرض.",
+        "image": "images\/iphone16.png"
+    },
+    "twitter": {
+        "card": "summary_large_image",
+        "url": "https:\/\/example.com\/iphone16-giveaway",
+        "title": "اربح ايفون 16 مجاناً | عرض محدود لفترة محدودة",
+        "description": "احصل على ايفون 16 الجديد مجاناً! فرصة ذهبية محدودة للفوز بأحدث هاتف ايفون. سجل الآن قبل انتهاء العرض.",
+        "image": "images\/iphone16.png"
+    },
+    "structuredData": {
+        "@context": "https:\/\/schema.org",
+        "@type": "Product",
+        "name": "iPhone 16",
+        "image": "images\/iphone16.png",
+        "description": "احصل على ايفون 16 الجديد مجاناً! فرصة ذهبية محدودة للفوز بأحدث هاتف ايفون.",
+        "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+        },
+        "offers": {
+            "@type": "Offer",
+            "url": "https:\/\/example.com\/iphone16-giveaway",
+            "priceCurrency": "USD",
+            "price": "0",
+            "availability": "https:\/\/schema.org\/LimitedAvailability",
+            "seller": {
+                "@type": "Organization",
+                "name": "iPhone Giveaway"
+            }
+        }
+    },
+    "images": {
+        "logo": "images\/logo.png",
+        "favicon": "images\/favicon.ico",
+        "appleTouchIcon": "images\/apple-touch-icon.png",
+        "mainImage": "images\/iphone16.png",
+        "banner1": "images\/iphone 16 banner1.jpg",
+        "banner2": "images\/iphone 16 banner2.webp"
+    },
+    "colors": {
+        "primary": "#0071e3",
+        "secondary": "#2997ff",
+        "accent": "#ff9500",
+        "dark": "#1d1d1f",
+        "light": "#f5f5f7",
+        "white": "#ffffff",
+        "gray": "#86868b",
+        "success": "#4cd964",
+        "error": "#ff3b30"
+    },
+    "fonts": {
+        "main": "Cairo",
+        "weights": [
+            400,
+            600,
+            700,
+            900
+        ],
+        "googleFontsUrl": "https:\/\/fonts.googleapis.com\/css2?family=Cairo:wght@400;600;700;900&display=swap"
+    },
+    "content": {
+        "hero": {
+            "title": "اربح ايفون 16 الجديد كلياً",
+            "subtitle": "فرصة ذهبية محدودة! احصل عليه الآن مجاناً",
+            "ctaText": "احصل عليه الآن",
+            "countdownText": "ينتهي العرض خلال:"
+        },
+        "about": {
+            "title": "عن العرض",
+            "paragraph1": "نقدم لكم فرصة ذهبية للحصول على أحدث إصدار من هواتف آبل - ايفون 16 الجديد كلياً!",
+            "paragraph2": "هذا العرض محدود بالوقت ومتاح لعدد محدود من المشاركين فقط. احصل على فرصتك الآن قبل انتهاء العرض.",
+            "paragraph3": "كل ما عليك فعله هو النقر على زر \"احصل عليه الآن\" واتباع الخطوات البسيطة للحصول على فرصتك في الفوز بهذا الجهاز الرائع.",
+            "features": [
+                {
+                    "icon": "fas fa-mobile-alt",
+                    "title": "أحدث تقنيات آبل",
+                    "description": "استمتع بأحدث تقنيات آبل في ايفون 16 الجديد"
+                },
+                {
+                    "icon": "fas fa-camera",
+                    "title": "كاميرا متطورة",
+                    "description": "التقط صوراً احترافية بكاميرا ايفون 16 المتطورة"
+                },
+                {
+                    "icon": "fas fa-battery-full",
+                    "title": "بطارية تدوم طويلاً",
+                    "description": "استمتع ببطارية تدوم طوال اليوم مع الاستخدام المكثف"
+                }
+            ]
+        },
+        "cta": {
+            "title": "احصل على ايفون 16 مجاناً",
+            "buttonText": "احصل عليه الآن",
+            "countdownText": "ينتهي العرض خلال:"
+        },
+        "footer": {
+            "logo": "اربح ايفون 16",
+            "tagline": "فرصتك للحصول على أحدث هاتف من آبل مجاناً",
+            "copyright": "© 2025 اربح ايفون 16. جميع الحقوق محفوظة.",
+            "disclaimer1": "هذا العرض محدود بالوقت وقد ينتهي في أي لحظة. العرض متاح لفترة محدودة فقط.",
+            "disclaimer2": "الأسماء والصور المستخدمة في هذا الموقع هي لأغراض توضيحية فقط. النتائج قد تختلف من شخص لآخر.",
+            "links": [
+                {
+                    "text": "الرئيسية",
+                    "url": "#top"
+                },
+                {
+                    "text": "عن المسابقة",
+                    "url": "#about"
+                },
+                {
+                    "text": "احصل عليه الآن",
+                    "url": "#cta-section"
+                },
+                {
+                    "text": "آراء الفائزين",
+                    "url": "#comments"
+                }
+            ],
+            "social": [
+                {
+                    "icon": "fab fa-facebook-f",
+                    "url": "#"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "url": "#"
+                },
+                {
+                    "icon": "fab fa-instagram",
+                    "url": "#"
+                },
+                {
+                    "icon": "fab fa-youtube",
+                    "url": "#"
+                }
+            ]
+        }
+    },
+    "languages": {
+        "ar": {
+            "siteName": "اربح ايفون 16 مجاناً",
+            "siteDescription": "احصل على ايفون 16 الجديد مجاناً! فرصة ذهبية محدودة للفوز بأحدث هاتف ايفون 16. سجل الآن قبل انتهاء العرض واربح جهاز ايفون 16 الجديد كلياً. عرض حصري لفترة محدودة.",
+            "meta": {
+                "title": "اربح ايفون 16 مجاناً | عرض محدود لفترة محدودة",
+                "description": "احصل على ايفون 16 الجديد مجاناً! فرصة ذهبية محدودة للفوز بأحدث هاتف ايفون 16. سجل الآن قبل انتهاء العرض واربح جهاز ايفون 16 الجديد كلياً. عرض حصري لفترة محدودة.",
+                "keywords": "ايفون 16, اربح ايفون, هدايا مجانية, ايفون مجاني, مسابقة ايفون, آيفون 16 برو, آبل, جوائز, سحب الكتروني, عرض محدود, هاتف مجاني, ربح ايفون, فوز بجوائز, آيفون جديد, عروض حصرية"
+            },
+            "content": {
+                "hero": {
+                    "title": "اربح ايفون 16 الجديد كلياً",
+                    "subtitle": "فرصة ذهبية محدودة! احصل عليه الآن مجاناً",
+                    "ctaText": "احصل عليه الآن",
+                    "countdownText": "ينتهي العرض خلال:"
+                },
+                "about": {
+                    "title": "عن العرض",
+                    "paragraph1": "نقدم لكم فرصة ذهبية للحصول على أحدث إصدار من هواتف آبل - ايفون 16 الجديد كلياً!",
+                    "paragraph2": "هذا العرض محدود بالوقت ومتاح لعدد محدود من المشاركين فقط. احصل على فرصتك الآن قبل انتهاء العرض.",
+                    "paragraph3": "كل ما عليك فعله هو النقر على زر \"احصل عليه الآن\" واتباع الخطوات البسيطة للحصول على فرصتك في الفوز بهذا الجهاز الرائع.",
+                    "features": [
+                        {
+                            "icon": "fas fa-mobile-alt",
+                            "title": "أحدث تقنيات آبل",
+                            "description": "استمتع بأحدث تقنيات آبل في ايفون 16 الجديد"
+                        },
+                        {
+                            "icon": "fas fa-camera",
+                            "title": "كاميرا متطورة",
+                            "description": "التقط صوراً احترافية بكاميرا ايفون 16 المتطورة"
+                        },
+                        {
+                            "icon": "fas fa-battery-full",
+                            "title": "بطارية تدوم طويلاً",
+                            "description": "استمتع ببطارية تدوم طوال اليوم مع الاستخدام المكثف"
+                        }
+                    ]
+                },
+                "cta": {
+                    "title": "احصل على ايفون 16 مجاناً",
+                    "buttonText": "احصل عليه الآن",
+                    "countdownText": "ينتهي العرض خلال:"
+                },
+                "footer": {
+                    "logo": "اربح ايفون 16",
+                    "tagline": "فرصتك للحصول على أحدث هاتف من آبل مجاناً",
+                    "copyright": "© 2025 اربح ايفون 16. جميع الحقوق محفوظة.",
+                    "disclaimer1": "هذا العرض محدود بالوقت وقد ينتهي في أي لحظة. العرض متاح لفترة محدودة فقط.",
+                    "disclaimer2": "الأسماء والصور المستخدمة في هذا الموقع هي لأغراض توضيحية فقط. النتائج قد تختلف من شخص لآخر.",
+                    "links": [
+                        {
+                            "text": "الرئيسية",
+                            "url": "#top"
+                        },
+                        {
+                            "text": "عن المسابقة",
+                            "url": "#about"
+                        },
+                        {
+                            "text": "احصل عليه الآن",
+                            "url": "#cta-section"
+                        },
+                        {
+                            "text": "آراء الفائزين",
+                            "url": "#comments"
+                        }
+                    ],
+                    "social": [
+                        {
+                            "icon": "fab fa-facebook-f",
+                            "url": "#"
+                        },
+                        {
+                            "icon": "fab fa-twitter",
+                            "url": "#"
+                        },
+                        {
+                            "icon": "fab fa-instagram",
+                            "url": "#"
+                        },
+                        {
+                            "icon": "fab fa-youtube",
+                            "url": "#"
+                        }
+                    ]
+                },
+                "comments": {
+                    "title": "آراء الفائزين السابقين"
+                }
+            }
+        },
+        "en": {
+            "siteName": "Win iPhone 16 for Free",
+            "siteDescription": "Get the new iPhone 16 for free!",
+            "meta": {
+                "title": "Win iPhone 16 for Free | Limited Time Offer",
+                "description": "Get the new iPhone 16 for free! A golden opportunity to win the latest iPhone.",
+                "keywords": "iPhone 16, win iPhone, free gifts, free iPhone, iPhone contest",
+                "ogTitle": "Win iPhone 16 for Free | Limited Time Offer",
+                "ogDescription": "Get the new iPhone 16 for free! A golden opportunity to win the latest iPhone.",
+                "ogImage": "images\/iphone16.png",
+                "twitterImage": "images\/iphone16.png"
+            },
+            "content": {
+                "hero": {
+                    "title": "Win the Brand New iPhone 16",
+                    "subtitle": "Golden opportunity! Get it now for free",
+                    "ctaText": "Get It Now",
+                    "countdownText": "Offer ends in:"
+                },
+                "about": {
+                    "title": "About the Offer",
+                    "paragraph1": "We present you with a golden opportunity to get the latest version of Apple phones - the brand new iPhone 16!",
+                    "paragraph2": "This offer is time-limited and available to a limited number of participants only. Get your chance now before the offer ends.",
+                    "paragraph3": "All you have to do is click the \"Get It Now\" button and follow the simple steps to get your chance to win this amazing device.",
+                    "features": [
+                        {
+                            "icon": "fas fa-mobile-alt",
+                            "title": "Latest Apple Technology",
+                            "description": "Enjoy the latest Apple technology in the new iPhone 16"
+                        },
+                        {
+                            "icon": "fas fa-camera",
+                            "title": "Advanced Camera",
+                            "description": "Take professional photos with the advanced iPhone 16 camera"
+                        },
+                        {
+                            "icon": "fas fa-battery-full",
+                            "title": "Long-lasting Battery",
+                            "description": "Enjoy a battery that lasts all day with intensive use"
+                        }
+                    ]
+                },
+                "cta": {
+                    "title": "Get iPhone 16 for Free",
+                    "buttonText": "Get It Now",
+                    "countdownText": "Offer ends in:"
+                },
+                "comments": {
+                    "title": "Previous Winners' Reviews"
+                },
+                "footer": {
+                    "logo": "Win iPhone 16",
+                    "tagline": "Your chance to get the latest Apple phone for free",
+                    "copyright": "© 2024 Win iPhone 16. All rights reserved.",
+                    "disclaimer1": "This offer is time-limited and may end at any moment. The offer is available for a limited time only.",
+                    "social": [
+                        {
+                            "icon": "fab fa-facebook-f",
+                            "url": "#"
+                        },
+                        {
+                            "icon": "fab fa-twitter",
+                            "url": "#"
+                        },
+                        {
+                            "icon": "fab fa-instagram",
+                            "url": "#"
+                        },
+                        {
+                            "icon": "fab fa-youtube",
+                            "url": "#"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "appearance": {
+        "primaryColor": "#0071e3",
+        "secondaryColor": "#2997ff",
+        "buttonColor": "#0071e3",
+        "backgroundColor": "#f5f5f7",
+        "textColor": "#1d1d1f",
+        "productImage": "images\/iphone16.png",
+        "favicon": "images\/favicon.ico",
+        "touchIcon": "images\/touch-icon.png"
+    }
+}

@@ -1,0 +1,308 @@
+{
+  "comments": {
+    "ar": [
+    {
+      "id": 1,
+      "name": "أحمد محمد",
+      "date": "2024-05-01T10:30:00",
+      "text": "لم أصدق عندما تلقيت الاتصال بأنني ربحت الآيفون! شكراً جزيلاً، الجهاز رائع ويعمل بشكل ممتاز.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "verified": true,
+      "location": "الرياض، السعودية"
+    },
+    {
+      "id": 2,
+      "name": "سارة أحمد",
+      "date": "2024-04-28T15:45:00",
+      "text": "كنت متشككة في البداية، لكن المسابقة كانت حقيقية 100%! استلمت الجهاز خلال أسبوع من الإعلان عن فوزي.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "verified": true,
+      "location": "دبي، الإمارات"
+    },
+    {
+      "id": 3,
+      "name": "محمد علي",
+      "date": "2024-04-23T09:15:00",
+      "text": "تجربة رائعة! الموقع سهل الاستخدام والتسجيل كان بسيطاً. سأشارك مع أصدقائي للاشتراك أيضاً.",
+      "rating": 4,
+      "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+      "verified": true,
+      "location": "القاهرة، مصر"
+    },
+    {
+      "id": 4,
+      "name": "فاطمة حسن",
+      "date": "2024-04-18T12:20:00",
+      "text": "شكراً جزيلاً! لم أتوقع أن أربح، لكنني كنت محظوظة. الآيفون يعمل بشكل ممتاز وأنا سعيدة جداً به.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+      "verified": true,
+      "location": "الدوحة، قطر"
+    },
+    {
+      "id": 5,
+      "name": "عبدالله محمد",
+      "date": "2024-04-15T17:30:00",
+      "text": "أفضل هدية حصلت عليها! شكراً لكم على هذه الفرصة الرائعة. الآيفون 16 جهاز مذهل وأنا سعيد جداً به.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+      "verified": true,
+      "location": "جدة، السعودية"
+    },
+    {
+      "id": 6,
+      "name": "نورة العتيبي",
+      "date": "2024-04-10T14:15:00",
+      "text": "كنت أبحث عن هاتف جديد وفجأة ربحت الآيفون 16! لا أصدق حظي. الجهاز رائع والكاميرا مذهلة.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+      "verified": true,
+      "location": "الكويت"
+    },
+    {
+      "id": 7,
+      "name": "خالد العمري",
+      "date": "2024-04-05T11:45:00",
+      "text": "تجربة ممتازة من البداية للنهاية. التسجيل كان سهلاً والتواصل كان سريعاً. أنصح الجميع بالمشاركة.",
+      "rating": 4,
+      "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+      "verified": true,
+      "location": "عمان، الأردن"
+    },
+    {
+      "id": 8,
+      "name": "ريم الشمري",
+      "date": "2024-04-01T10:00:00",
+      "text": "لم أكن أتوقع أن أربح، لكن الحظ كان حليفي! الآيفون 16 رائع وسريع جداً. شكراً جزيلاً!",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+      "verified": true,
+      "location": "أبوظبي، الإمارات"
+    },
+    {
+      "id": 9,
+      "name": "يوسف الحربي",
+      "date": "2024-03-28T16:30:00",
+      "text": "أشكركم على هذه الفرصة الرائعة! الآيفون 16 جهاز مذهل وأنا سعيد جداً بالفوز به.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+      "verified": true,
+      "location": "المنامة، البحرين"
+    },
+    {
+      "id": 10,
+      "name": "منى القحطاني",
+      "date": "2024-03-25T13:15:00",
+      "text": "تجربة رائعة! الموقع موثوق والتواصل كان سريعاً. استلمت الجهاز خلال أيام قليلة من الإعلان عن فوزي.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+      "verified": true,
+      "location": "مسقط، عمان"
+    },
+    {
+      "id": 11,
+      "name": "سلطان الدوسري",
+      "date": "2024-03-20T09:45:00",
+      "text": "شكراً جزيلاً على هذه الهدية الرائعة! الآيفون 16 جهاز مذهل وأنا سعيد جداً بالفوز به.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+      "verified": true,
+      "location": "الرياض، السعودية"
+    },
+    {
+      "id": 12,
+      "name": "عائشة المري",
+      "date": "2024-03-15T14:30:00",
+      "text": "لم أكن أتوقع أن أربح، لكن الحظ كان حليفي! الآيفون 16 رائع وسريع جداً. شكراً جزيلاً!",
+      "rating": 4,
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "verified": true,
+      "location": "دبي، الإمارات"
+    },
+    {
+      "id": 13,
+      "name": "ناصر العنزي",
+      "date": "2024-03-10T11:00:00",
+      "text": "أفضل هدية حصلت عليها! شكراً لكم على هذه الفرصة الرائعة. الآيفون 16 جهاز مذهل.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+      "verified": true,
+      "location": "الدمام، السعودية"
+    },
+    {
+      "id": 14,
+      "name": "هند المطيري",
+      "date": "2024-03-05T16:15:00",
+      "text": "كنت أبحث عن هاتف جديد وفجأة ربحت الآيفون 16! لا أصدق حظي. الجهاز رائع والكاميرا مذهلة.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "verified": true,
+      "location": "الكويت"
+    },
+    {
+      "id": 15,
+      "name": "فهد الشهري",
+      "date": "2024-03-01T10:30:00",
+      "text": "تجربة ممتازة من البداية للنهاية. التسجيل كان سهلاً والتواصل كان سريعاً. أنصح الجميع بالمشاركة.",
+      "rating": 4,
+      "avatar": "https://randomuser.me/api/portraits/men/15.jpg",
+      "verified": true,
+      "location": "جدة، السعودية"
+    },
+    {
+      "id": 16,
+      "name": "لمياء الحربي",
+      "date": "2024-02-25T13:45:00",
+      "text": "لم أكن أتوقع أن أربح، لكن الحظ كان حليفي! الآيفون 16 رائع وسريع جداً. شكراً جزيلاً!",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
+      "verified": true,
+      "location": "الشارقة، الإمارات"
+    },
+    {
+      "id": 17,
+      "name": "عمر القاسم",
+      "date": "2024-02-20T09:15:00",
+      "text": "أشكركم على هذه الفرصة الرائعة! الآيفون 16 جهاز مذهل وأنا سعيد جداً بالفوز به.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/17.jpg",
+      "verified": true,
+      "location": "القاهرة، مصر"
+    },
+    {
+      "id": 18,
+      "name": "سلمى العتيبي",
+      "date": "2024-02-15T15:30:00",
+      "text": "تجربة رائعة! الموقع موثوق والتواصل كان سريعاً. استلمت الجهاز خلال أيام قليلة من الإعلان عن فوزي.",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/18.jpg",
+      "verified": true,
+      "location": "الرياض، السعودية"
+    },
+    {
+      "id": 19,
+      "name": "بدر الدوسري",
+      "date": "2024-02-10T11:45:00",
+      "text": "شكراً جزيلاً على هذه الهدية الرائعة! الآيفون 16 جهاز مذهل وأنا سعيد جداً بالفوز به.",
+      "rating": 4,
+      "avatar": "https://randomuser.me/api/portraits/men/19.jpg",
+      "verified": true,
+      "location": "الدوحة، قطر"
+    },
+    {
+      "id": 20,
+      "name": "نوف الشمري",
+      "date": "2024-02-05T14:00:00",
+      "text": "لم أكن أتوقع أن أربح، لكن الحظ كان حليفي! الآيفون 16 رائع وسريع جداً. شكراً جزيلاً!",
+      "rating": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/20.jpg",
+      "verified": true,
+      "location": "دبي، الإمارات"
+    }
+    ],
+    "en": [
+      {
+        "id": 101,
+        "name": "John Smith",
+        "date": "2025-04-01T10:30:00",
+        "text": "I couldn't believe it when I received the call that I won! Thank you so much, the device is amazing and works perfectly.",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/men/21.jpg",
+        "verified": true,
+        "location": "New York, USA"
+      },
+      {
+        "id": 102,
+        "name": "Sarah Johnson",
+        "date": "2025-04-02T14:15:00",
+        "text": "I was skeptical at first, but the contest was 100% real! I received the device within a week of being announced as the winner.",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/women/22.jpg",
+        "verified": true,
+        "location": "London, UK"
+      },
+      {
+        "id": 103,
+        "name": "Michael Brown",
+        "date": "2025-04-03T09:45:00",
+        "text": "Great experience! The website is easy to use and registration was simple. I'll share with my friends to join too.",
+        "rating": 4,
+        "avatar": "https://randomuser.me/api/portraits/men/23.jpg",
+        "verified": false,
+        "location": "Sydney, Australia"
+      },
+      {
+        "id": 104,
+        "name": "Emily Davis",
+        "date": "2025-04-04T16:20:00",
+        "text": "Thank you so much! I didn't expect to win, but I was lucky. The device works perfectly and I'm very happy with it.",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/women/24.jpg",
+        "verified": true,
+        "location": "Toronto, Canada"
+      },
+      {
+        "id": 105,
+        "name": "David Wilson",
+        "date": "2025-04-05T11:10:00",
+        "text": "I won the contest last month and received the device quickly. Thank you for this amazing opportunity!",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
+        "verified": true,
+        "location": "Berlin, Germany"
+      },
+      {
+        "id": 106,
+        "name": "Olivia Taylor",
+        "date": "2025-04-06T13:25:00",
+        "text": "I recommend everyone to participate in this contest. I won and my friends did too. Thank you!",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/women/26.jpg",
+        "verified": false,
+        "location": "Paris, France"
+      },
+      {
+        "id": 107,
+        "name": "James Anderson",
+        "date": "2025-04-07T15:40:00",
+        "text": "Best gift I've ever received! Thank you for this amazing opportunity. The device is incredible and I'm very happy with it.",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/men/27.jpg",
+        "verified": true,
+        "location": "Chicago, USA"
+      },
+      {
+        "id": 108,
+        "name": "Sophia Martinez",
+        "date": "2025-04-08T12:15:00",
+        "text": "I was looking for a new device and suddenly I won this one! I can't believe my luck. The device is great and the camera is amazing.",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/women/28.jpg",
+        "verified": true,
+        "location": "Madrid, Spain"
+      },
+      {
+        "id": 109,
+        "name": "William Thompson",
+        "date": "2025-04-09T09:30:00",
+        "text": "Excellent experience from start to finish. Registration was easy and communication was quick. I recommend everyone to participate.",
+        "rating": 4,
+        "avatar": "https://randomuser.me/api/portraits/men/29.jpg",
+        "verified": true,
+        "location": "Amsterdam, Netherlands"
+      },
+      {
+        "id": 110,
+        "name": "Emma White",
+        "date": "2025-04-10T14:50:00",
+        "text": "I didn't expect to win, but luck was on my side! The device is amazing and very fast. Thank you so much!",
+        "rating": 5,
+        "avatar": "https://randomuser.me/api/portraits/women/30.jpg",
+        "verified": true,
+        "location": "Dublin, Ireland"
+      }
+    ]
+  }
+}

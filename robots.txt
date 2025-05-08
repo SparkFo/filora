@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /languages/
+Disallow: /site-settings.json
+Disallow: /comments.json
+Disallow: /.htaccess
+Disallow: /web.config
+
+Sitemap: https://example.com/sitemap.xml
